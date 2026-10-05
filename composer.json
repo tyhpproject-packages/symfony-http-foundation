@@ -1,0 +1,19 @@
+{
+    "name": "tyhpdef/symfony-http-foundation",
+    "description": "Tyhp type definitions for symfony/http-foundation 7.4.19.",
+    "type": "metapackage",
+    "license": "Apache-2.0",
+    "version": "7.4.19",
+    "keywords": [
+        "dev",
+        "static analysis"
+    ],
+    "require": {
+        "tyhpdef/symfony-http-foundation-impl": "~7.4.19.0"
+    },
+    "extra": {
+        "tyhp": {
+            "impl": "tyhpdef/symfony-http-foundation-impl"
+        }
+    }
+}
