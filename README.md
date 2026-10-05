@@ -1,10 +1,10 @@
 <!-- tyhp-readme:start -->
 # tyhpdef/symfony-http-foundation
 
-Tyhp type definitions for `symfony/http-foundation` `7.4.19`.
+Tyhp type definitions for `symfony/http-foundation` `8.1.7`.
 
 ```bash
-composer require --dev tyhpdef/symfony-http-foundation:7.4.19
+composer require --dev tyhpdef/symfony-http-foundation:8.1.7
 ```
 
 This is a metapackage. Composer also installs `tyhpdef/symfony-http-foundation-impl` (type files).
